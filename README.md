@@ -1,7 +1,7 @@
 jquery-placeholder
 =============
 
-###Simple jQuery Placeholder plugin v1.0
+###Simple jQuery Placeholder plugin v1.1
 
 Automatically replace text on inputs and textares.
 
