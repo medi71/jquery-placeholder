@@ -45,7 +45,7 @@ $(function ( $ ) {
 		 
 		/**
 		 *
-		 *dafault color schema
+		 *default color schema
 		 *
 		 */
 		var active = active || '#000000';
